@@ -1,0 +1,5 @@
+# Everything in here is herdr runtime state (logs, sockets, session.json,
+# release-notes.json) except the config itself.
+*
+!.gitignore
+!config.toml
